@@ -1,4 +1,7 @@
 Nick Warwick
+Java implementation of AES-256.
+
+NOTE: No padding, assumes input of 32 characters per line.
 
 Instructions:
 
