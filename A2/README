@@ -1,0 +1,9 @@
+Nick Warwick
+
+Instructions:
+
+Encryption command:
+	java AES e keyFile inputFile
+
+Decryption command: 
+	java AES d keyFile inputFile.enc
