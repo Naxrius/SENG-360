@@ -1,0 +1,8 @@
+.DS_Store
+*.class
+*.pdf
+*.zip
+
+# Encrypted and decrypted files
+*.enc
+*.enc.dec
